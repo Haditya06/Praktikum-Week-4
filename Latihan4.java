@@ -60,7 +60,8 @@ public class Latihan4 {
                      break;
                     case 6: tulisan += "Six";
                      break;
-                    case 7: tulisan += "Seven"; break;
+                    case 7: tulisan += "Seven"; 
+                     break;
                     case 8: tulisan += "Eight";
                      break;
                     case 9: tulisan += "Nine";
@@ -139,3 +140,4 @@ public class Latihan4 {
         System.out.println("Hasil konversi: " + tulisan);
     }
 }
+
