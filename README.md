@@ -1,6 +1,6 @@
 # Praktikum-Week-4
 
-# 📘 CCK1DAB4 - Algoritma dan Pemrograman Komputer
+# 📘 Algoritma dan Pemrograman Komputer
 
 ## Bab V – Percabangan
 
