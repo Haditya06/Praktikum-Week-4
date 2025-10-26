@@ -1,17 +1,15 @@
 # Praktikum-Week-4
 
-# 📘 Algoritma dan Pemrograman Komputer
+# 📘 Algoritma Pemrograman 
 
 ## Bab V – Percabangan
 
-Dokumen ini merupakan bagian dari mata kuliah **Algoritma dan Pemrograman Komputer** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
+Ddari mata kuliah **Algoritma Pemrograman** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2024)**.
 Bab ini membahas konsep **percabangan (decision making)** dalam bahasa pemrograman **Java**, yang digunakan untuk menjalankan perintah tertentu berdasarkan kondisi logis yang terpenuhi.
 
 ---
 
 ## 🎯 Tujuan Pembelajaran
-
-Mahasiswa diharapkan mampu:
 
 1. Menggunakan **percabangan if-else** dan **switch-case** dengan benar.
 2. Memahami proses **runtunan logika** yang menentukan jalannya program berdasarkan suatu kondisi.
