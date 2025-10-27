@@ -4,8 +4,8 @@
 
 ## Bab V – Percabangan
 
-Ddari mata kuliah **Algoritma Pemrograman** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2025)**.
-Bab ini membahas konsep **percabangan (decision making)** dalam bahasa pemrograman **Java**, yang digunakan untuk menjalankan perintah tertentu berdasarkan kondisi logis yang terpenuhi.
+dari mata kuliah **Algoritma Pemrograman** di **Program Studi Rekayasa Perangkat Lunak, Universitas Telkom Surabaya (2025)**.
+membahas tentang konsep **percabangan (decision making)** dalam bahasa pemrograman **Java**, yang digunakan untuk menjalankan perintah tertentu berdasarkan kondisi logis yang terpenuhi.
 
 ---
 
